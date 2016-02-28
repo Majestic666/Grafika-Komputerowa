@@ -1,0 +1,14 @@
+﻿Build started 2016-02-28 21:52:05.
+     1>Project "c:\Users\Majestic\documents\visual studio 2013\Projects\Zadanie1\Zadanie1\Zadanie1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\VS13\VC\bin\CL.exe /c /I"c:\Users\Majestic\documents\visual studio 2013\Projects\Zadanie1\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Zadanie1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Zadanie1.cpp
+         Zadanie1.cpp
+       Link:
+         F:\VS13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\majestic\documents\visual studio 2013\Projects\Zadanie1\Debug\Zadanie1.exe" /INCREMENTAL /NOLOGO "c:\Users\Majestic\documents\visual studio 2013\Projects\Zadanie1\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib" "c:\Users\Majestic\documents\visual studio 2013\Projects\Zadanie1\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib" "c:\Users\Majestic\documents\visual studio 2013\Projects\Zadanie1\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\majestic\documents\visual studio 2013\Projects\Zadanie1\Debug\Zadanie1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\majestic\documents\visual studio 2013\Projects\Zadanie1\Debug\Zadanie1.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\Zadanie1.obj
+         Zadanie1.vcxproj -> c:\users\majestic\documents\visual studio 2013\Projects\Zadanie1\Debug\Zadanie1.exe
+     1>Done Building Project "c:\Users\Majestic\documents\visual studio 2013\Projects\Zadanie1\Zadanie1\Zadanie1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.22
