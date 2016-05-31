@@ -9,7 +9,6 @@
 
 
 // sta³e do obs³ugi menu podrêcznego
-
 enum
 {
 
